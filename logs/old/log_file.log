@@ -1,0 +1,26 @@
+2024-10-04 05:26:20,745 INFO %PARSER_ERROR[pid]--- [main] com.enigna.logging.LoggingApplication - Starting LoggingApplication using Java 17.0.9 with PID 3620 (F:\bilong\Tek-Up 4ieme annee\TP\springboot\logging\target\classes started by enigma in F:\bilong\Tek-Up 4ieme annee\TP\springboot\logging)
+2024-10-04 05:26:20,747 INFO %PARSER_ERROR[pid]--- [main] com.enigna.logging.LoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2024-10-04 05:26:21,890 INFO %PARSER_ERROR[pid]--- [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-10-04 05:26:21,904 INFO %PARSER_ERROR[pid]--- [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-10-04 05:26:21,905 INFO %PARSER_ERROR[pid]--- [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-04 05:26:21,965 INFO %PARSER_ERROR[pid]--- [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-10-04 05:26:21,966 INFO %PARSER_ERROR[pid]--- [main] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1145 ms
+2024-10-04 05:26:22,509 INFO %PARSER_ERROR[pid]--- [main] org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 1 endpoint beneath base path '/actuator'
+2024-10-04 05:26:22,565 INFO %PARSER_ERROR[pid]--- [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-10-04 05:26:22,581 INFO %PARSER_ERROR[pid]--- [main] com.enigna.logging.LoggingApplication - Started LoggingApplication in 2.261 seconds (process running for 2.837)
+2024-10-04 05:26:22,587 INFO %PARSER_ERROR[pid]--- [main] com.enigna.logging.loggers.MyApplicationRunner - Application started
+2024-10-04 05:26:22,590 INFO %PARSER_ERROR[pid]--- [main] com.enigna.logging.loggers.MyApplicationRunner - Application finished
+2024-10-04 05:26:23,054 INFO %PARSER_ERROR[pid]--- [RMI TCP Connection(3)-192.168.56.1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-04 05:26:23,054 INFO %PARSER_ERROR[pid]--- [RMI TCP Connection(3)-192.168.56.1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-10-04 05:26:23,055 INFO %PARSER_ERROR[pid]--- [RMI TCP Connection(3)-192.168.56.1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-10-04 05:33:03,926 INFO %PARSER_ERROR[pid]--- [main] com.enigna.logging.LoggingApplication - Starting LoggingApplication using Java 17.0.9 with PID 13708 (F:\bilong\Tek-Up 4ieme annee\TP\springboot\logging\target\classes started by enigma in F:\bilong\Tek-Up 4ieme annee\TP\springboot\logging)
+2024-10-04 05:33:03,928 INFO %PARSER_ERROR[pid]--- [main] com.enigna.logging.LoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2024-10-04 05:33:05,218 INFO %PARSER_ERROR[pid]--- [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-10-04 05:33:05,229 INFO %PARSER_ERROR[pid]--- [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-10-04 05:33:05,230 INFO %PARSER_ERROR[pid]--- [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-04 05:33:05,289 INFO %PARSER_ERROR[pid]--- [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-10-04 05:33:05,289 INFO %PARSER_ERROR[pid]--- [main] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1312 ms
+2024-10-04 05:33:05,810 INFO %PARSER_ERROR[pid]--- [main] org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 1 endpoint beneath base path '/actuator'
+2024-10-04 05:33:05,862 INFO %PARSER_ERROR[pid]--- [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-10-04 05:33:05,876 INFO %PARSER_ERROR[pid]--- [main] com.enigna.logging.LoggingApplication - Started LoggingApplication in 2.352 seconds (process running for 2.901)
+2024-10-04 05:33:05,883 INFO %PARSER_ERROR[pid]--- [main] com.enigna.logging.loggers.MyApplicationRunner - Application started
